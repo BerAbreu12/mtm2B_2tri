@@ -1,0 +1,16 @@
+@import url("styles/header.css");   /*ASSOCIANDO OS ARQUIVOS .css*/
+
+
+
+/*ATALHOS PARA AS CORES*/
+:root {
+    --cor-de-fundo: #EBECEE;
+    --branco: #FFFFFF;
+}
+
+/*COR DE FUNDO DA PÁGINA*/
+body {
+    background-color: var(--cor-de-fundo);
+}
+
+
